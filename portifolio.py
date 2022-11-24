@@ -47,13 +47,13 @@ descricao = '''
 Investor in crypto \n Holder of UMA,SNX,VIDT DAO| B.tech Graduate in Computer Science and Engineering
 '''
 idade = '24 anos'
-cidade = 'Atualmente em Mogi Guaçu - SP'
-email = 'alaneleuteriocg@gmail.com'
+cidade = 'Currently Working in EY'
+email = 'ashistiwari2@gmail.com'
 
 PAGE_TITLE = "Curriculum Vitae | Ashis Tiwari"
 NAME = '## Ashis Tiwari'
 DESCRIPTION = 'Geográfo'
-EMAIL = 'alaneleuteriocg@gmail.com'
+EMAIL = 'ashistiwari@gmail.com'
 
 
 with open(css_file) as f:
