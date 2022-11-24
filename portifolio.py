@@ -18,7 +18,7 @@ from branca.element import Figure
 from folium.plugins import MarkerCluster
 from folium.plugins import HeatMap
 
-st.set_page_config(layout='wide', page_title="Currículo Digital Alan", page_icon="🌎")
+st.set_page_config(layout='wide', page_title="Curriculum Vitae Ashis", page_icon="🌎")
 
 over_theme = {
     'txc_inactive': '#D1E1E1',
@@ -39,9 +39,9 @@ image0 = Image.open("./assets/lateral2.png")
 pdf_file = current_dir / "assets" / "Currículo_Alan.pdf"
 
 
-titulo_pagina = 'Currículo Digital | Alan dos Santos Eleuterio'
+titulo_pagina = 'Ciriculum Vitae | Ashis Tiwari'
 icone_pagina = ':wave:'
-nome = '## Alan dos Santos Eleutério'
+nome = '## Ashis Tiwari'
 descricao = '''
 **Analista em Geoprocessamento e Controle Florestal** | 
 MTL \n Geógrafo | Pós graduando em Geoprocessamento
