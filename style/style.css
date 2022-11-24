@@ -1,0 +1,55 @@
+/* Logo */
+/* Adapted from Zachary Blackwood 
+[data-testid="stSidebar"] {
+    background-image: url(https://api.github.com/alanseleuterio/streamlit_project/assets/QRCode_DMTR.png);
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position: 4px 20px;
+}
+*/
+
+div.folium-map.leaflet-container.leaflet-fade-anim.leaflet-grab.leaflet-touch-drag{
+    width: 250px;
+    height: 500px
+}
+
+/* Card */
+/* Adapted from https://startbootstrap.com/theme/sb-admin-2 */
+div.css-12w0qpk.e1tzin5v2{
+border: 1px solid #CCCCCC;
+padding: 1% 1% 1% 1%;
+border-radius: 2px;
+
+border-left: 0.2rem solid #40E0D0 !important;
+box-shadow: 0 0.10rem 0.75rem 0 rgba(45, 45, 52, 0.15) !important;
+}
+
+label.css-50ug3q.e16fv1kl3 {
+color: #40E0D0 !important;
+font-weight: 700 !important;
+text-transform: uppercase !important;
+}
+
+
+/* Move block container higher */
+div.block-container.css-18e3th9.egzxvld2 {
+margin-top: 0em;
+}
+
+
+/* Hide hamburger menu and footer */
+div.css-r698ls.e8zbici2 {
+display: none;
+}
+
+footer.css-ipbk5a.egzxvld4 {
+display: none;
+}
+
+footer.css-12gp8ed.eknhn3m4 {
+display: none;
+}
+
+div.vg-tooltip-element {
+display: none;
+}

@@ -1,0 +1,15 @@
+branca
+folium
+pandas
+pathlib
+Pillow
+pip
+plotly
+requests
+requires.io
+streamlit
+streamlit-folium
+streamlit-lottie
+streamlit-option-menu
+streamlit-timeline
+streamlit-vis-timeline
