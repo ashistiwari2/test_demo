@@ -71,7 +71,7 @@ with col2:
      st.write(descricao)
      st.write(cidade)
      st.download_button(
-          label= "Download Currículo",
+          label= "Download CV",
           data= PDFbyte,
           file_name= pdf_file.name,
           mime= 'application/octet-stream')
@@ -80,13 +80,13 @@ with col2:
 with st.container ():
     column1, column2, column3, column4 = st.columns(4)
     with column1:
-          st.write('[Instagram](https://www.instagram.com/geotif.py)')
+          st.write('[Instagram](https://www.instagram.com/ashistiwari2)')
     with column2:
-         st.write('[Linkedin](https://www.linkedin.com/in/alan-dos-santos-eleuterio)')
+         st.write('[Linkedin](https://www.linkedin.com/in/ashistiwari2)')
     with column3:
-         st.write('[Github](https://github.com/alanseleuterio)')
+         st.write('[Github](https://github.com/ashistiwari2)')
     with column4:
-         st.write('[G-mail](https://mailto:alaneleuteriocg@gmail.com)')
+         st.write('[G-mail](https://mailto:ashistiwari2@gmail.com)')
 
     st.write('---')
 
