@@ -43,9 +43,9 @@ titulo_pagina = 'Curriculum Vitae | Ashis Tiwari'
 icone_pagina = ':wave:'
 nome = '## Ashis Tiwari'
 descricao = '''
-**Analista em Geoprocessamento e Controle Florestal** | 
-MTL \n Geógrafo | Pós graduando em Geoprocessamento
-'''
+**Senior Analyast @EY** | 
+Investor in crypto \n Holder of UMA,SNX,VIDT DAO| B.tech Graduate in Computer Science and Engineering
+''',
 idade = '24 anos'
 cidade = 'Atualmente em Mogi Guaçu - SP'
 email = 'alaneleuteriocg@gmail.com'
