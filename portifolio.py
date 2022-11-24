@@ -39,7 +39,7 @@ image0 = Image.open("./assets/lateral2.png")
 pdf_file = current_dir / "assets" / "Currículo_Alan.pdf"
 
 
-titulo_pagina = 'Ciriculum Vitae | Ashis Tiwari'
+titulo_pagina = 'Curriculum Vitae | Ashis Tiwari'
 icone_pagina = ':wave:'
 nome = '## Ashis Tiwari'
 descricao = '''
@@ -50,8 +50,8 @@ idade = '24 anos'
 cidade = 'Atualmente em Mogi Guaçu - SP'
 email = 'alaneleuteriocg@gmail.com'
 
-PAGE_TITLE = "Curriculo digital | Alan dos Santos Eleutério"
-NAME = '## Alan dos Santos Eleutério'
+PAGE_TITLE = "Curriculum Vitae | Ashis Tiwari"
+NAME = '## Ashis Tiwari'
 DESCRIPTION = 'Geográfo'
 EMAIL = 'alaneleuteriocg@gmail.com'
 
