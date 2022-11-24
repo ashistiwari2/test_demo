@@ -2,24 +2,21 @@ import plotly.graph_objects as go
 import plotly.express as px
 import plotly.figure_factory as ff
 import streamlit as st
-import sys
-sys.path.insert(1,"C:\\Users\\MQ955SE\\AppData\\Roaming\\Python\\Python311\\site-packages\\streamlit_option_menu")
-
 from datetime import datetime
 from PIL import Image
 import requests
 import streamlit.components.v1 as components
-#from streamlit_option_menu import option_menu
-#from streamlit_lottie import st_lottie
+from streamlit_option_menu import option_menu
+from streamlit_lottie import st_lottie
 from pathlib import Path
-#import folium
-#import branca
-#import folium.plugins
-#from streamlit_folium import folium_static
+import folium
+import branca
+import folium.plugins
+from streamlit_folium import folium_static
 import pandas as pd
-#from branca.element import Figure
-#from folium.plugins import MarkerCluster
-#from folium.plugins import HeatMap
+from branca.element import Figure
+from folium.plugins import MarkerCluster
+from folium.plugins import HeatMap
 
 st.set_page_config(layout='wide', page_title="Currículo Digital Alan", page_icon="🌎")
 
@@ -107,7 +104,6 @@ with col11:
           - Laudos ambientais; \n
           - Georreferenciamento de imóveis rurais e urbanos.
           
-
           ''')
 with col22:
           st.write(':file_folder: **EXPERIÊNCIA NOS SOFTWARES**')
