@@ -43,7 +43,7 @@ titulo_pagina = 'Curriculum Vitae | Ashis Tiwari'
 icone_pagina = ':wave:'
 nome = '## Ashis Tiwari'
 descricao = '''
-**Senior Analyast @EY** | 
+**Senior Analyast EY** | 
 Investor in crypto \n Holder of UMA,SNX,VIDT DAO| B.tech Graduate in Computer Science and Engineering
 ''',
 idade = '24 anos'
