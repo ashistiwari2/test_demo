@@ -45,7 +45,7 @@ nome = '## Ashis Tiwari'
 descricao = '''
 **Senior Analyast EY** | 
 Investor in crypto \n Holder of UMA,SNX,VIDT DAO| B.tech Graduate in Computer Science and Engineering
-''',
+'''
 idade = '24 anos'
 cidade = 'Atualmente em Mogi Guaçu - SP'
 email = 'alaneleuteriocg@gmail.com'
